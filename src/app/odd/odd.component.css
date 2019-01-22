@@ -1,0 +1,13 @@
+.gameRound {
+    width: 20vw;
+    margin: auto;
+    text-align: center;
+}
+
+.oddTitle {
+    color: palevioletred;
+}
+
+.evenTitle {
+    color: cadetblue;
+}
